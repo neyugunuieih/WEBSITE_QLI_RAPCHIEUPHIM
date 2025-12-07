@@ -256,9 +256,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Author
 
-- **Developer**: TuanStark
-- **Email**: lecongtuan472004@gmail.com
-- **GitHub**: [@TuanStark](https://github.com/TuanStark)
+- **Developer**: Hieu
+- **Email**: hn8221749@gmail.com
+
 
 ## 🙏 Acknowledgments
 
